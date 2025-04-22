@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 from aiogram import Bot, Dispatcher, types, F
 from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 from aiogram.filters.command import Command
